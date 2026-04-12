@@ -16,7 +16,7 @@ I maintain two parallel portfolios built to the same production standard.
 
 ## Portfolio One — Data Engineering
 
-**9 projects · AWS · Azure · GCP · Microsoft Fabric · UK datasets**
+**Multi-cloud · UK datasets**
 
 Real UK open data. Millions of rows. Production-grade pipelines with
 CI/CD, Docker, Terraform, data quality validation, and architecture
@@ -25,7 +25,7 @@ as soon as they are completed or when the project is in the work.
 
 | Project | Stack | Dataset | Status |
 |---|---|---|---|
-| NHS RTT & CWT Batch ELT Pipeline | Airflow · dbt · BigQuery · GCS | NHS England waiting times | In Progress |
+| NHS RTT & CWT Batch ELT Pipeline | Airflow · dbt · BigQuery · GCS | NHS England waiting times | Active |
 
 
 **Standards applied to every project:** CI/CD via GitHub Actions · Docker
@@ -37,7 +37,7 @@ DDaT framework alignment · Full architecture diagrams
 
 ## Portfolio Two — Data Science and ML Engineering
 
-**72 projects · 6 phases · Classical statistics to production AI systems**
+**Classical statistics to production AI systems**
 
 Every project derived from mathematical first principles before a library
 function is called. Every project produces a production-grade output
@@ -46,7 +46,7 @@ as soon as they are completed or when the project is in the work.
 
 | Phase | Focus | Era | Tools | Status |
 |---|---|---|---|---|
-| Phase 1 | EDA and Statistical Analysis | Classical → Modern ML | pandas · scipy · statsmodels | 4 of 12 complete |
+| Phase 1 | EDA and Statistical Analysis | Classical → Modern ML | pandas · scipy · statsmodels | Active |
 
 
 **Phase 1 completed projects:**
