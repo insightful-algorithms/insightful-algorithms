@@ -1,108 +1,92 @@
-# Hi, I'm Ose 👋
+# Ose — Data Engineer & Data Scientist
 
 > *Building from mathematical first principles. Shipping to production.*
 
-## What I do
+I am a full-stack data professional with an MSc in Data Science and a BSc
+in Physics, building at the intersection of rigorous mathematics, production
+data engineering, and applied machine learning.
 
-I design and build end-to-end data science and machine learning systems —
-spanning rigorous statistical modelling, supervised and unsupervised ML,
-deep learning, generative AI, graph intelligence, and cloud-native
-deployment on the Azure ecosystem.
+My physics background gives me a rare edge: I reason about data systems
+the way physicists reason about physical systems — from first principles,
+with mathematical rigour, always asking why before asking how.
 
-My physics background gives me a rare edge: I reason mathematically about
-uncertainty, causality, and model behaviour before writing a single line
-of code. My portfolio reflects a deliberate progression from classical
-statistical foundations through to production-grade ML engineering,
-AI agents, and LLM systems — across 6 phases and 72 projects.
+I maintain two parallel portfolios built to the same production standard.
 
-## Core competencies
+---
 
-Statistical & Mathematical Foundations
-Probability theory · Bayesian inference · Causal inference · Hypothesis
-testing · Experimental design · Time series analysis · Survival analysis
-· Information theory · Graph theory
+## Portfolio One — Data Engineering
 
-Machine Learning Engineering
-Supervised learning (regression, classification, forecasting) · Unsupervised
-learning (clustering, dimensionality reduction, anomaly detection) ·
-Reinforcement learning · Feature engineering · SHAP explainability ·
-Hyperparameter optimisation (Optuna) · Imbalanced learning
+**9 projects · AWS · Azure · GCP · Microsoft Fabric · UK datasets**
 
-Deep Learning & AI
-Neural architectures (CNNs, RNNs, LSTMs, Transformers) · NLP & LLM
-fine-tuning · Computer vision · Graph neural networks · Multimodal AI ·
-Generative AI · Responsible AI & EU AI Act alignment
+Real UK open data. Millions of rows. Production-grade pipelines with
+CI/CD, Docker, Terraform, data quality validation, and architecture
+diagrams in every repository.
 
-Generative AI & LLM Systems
-LLM fine-tuning (LoRA/QLoRA) · RAG pipelines · Prompt engineering ·
-AI agents (LangChain, LangGraph) · Multi-agent systems · RLHF ·
-GraphRAG · Text-to-Cypher · Azure OpenAI
-
-Graph Intelligence
-Neo4j · Cypher · Graph Data Science (GDS) · Community detection ·
-Node2vec · Link prediction · PageRank · Knowledge graphs ·
-Graph-powered recommendation systems · Fraud network analysis
-
-Data Engineering & Databases
-Relational: PostgreSQL · Azure SQL · dbt · SQLite
-Document: MongoDB · MongoDB Atlas · BSON · JSON schema · Pydantic
-Graph: Neo4j · Neo4j Aura · Cypher · GDS
-Vector: MongoDB Atlas Vector Search · FAISS · Azure AI Search
-Big Data: Apache Spark (PySpark) · Azure Databricks · Airflow
-
-ML Engineering & MLOps
-Pipeline orchestration · MLflow · Model monitoring & drift detection ·
-FastAPI · Docker · CI/CD · Azure DevOps · Terraform
-
-Cloud — Azure Ecosystem
-Azure Machine Learning · Azure Databricks · Azure Data Factory ·
-Azure Blob Storage · Azure SQL · Azure OpenAI · Azure AI Search ·
-Azure Container Apps · Azure Functions · Azure DevOps · Azure IoT
-
-## Technology progression
-
-> A deliberate journey from first principles to production — understanding
-> the maths behind every model and the tradeoffs behind every tool.
-
-Era 1 — Classical Foundations
-`NumPy · Pandas · Matplotlib · Seaborn · Statsmodels · Scikit-learn · SQL · JSON`
-
-Era 2 — Modern ML & Scalable Methods
-`XGBoost · LightGBM · Optuna · SHAP · Polars · PostgreSQL · dbt · Plotly · MongoDB · Pydantic`
-
-Era 3 — Deep Learning, Graph Intelligence & GenAI
-`PyTorch · HuggingFace · fast.ai · OpenCV · ONNX · Neo4j · Cypher · Neo4j GDS · LangChain · FAISS`
-
-Era 4 — Cloud-Native & Production ML
-`Azure ML · Azure Databricks · Docker · FastAPI · MLflow · Airflow · PySpark`
-`Azure OpenAI · MongoDB Atlas · Neo4j Aura · LangGraph · Azure DevOps · Terraform`
-
-## Portfolio — 6 phases, 72 projects
-
-| Phase | Focus | Key technologies | Status |
+| Project | Stack | Dataset | Status |
 |---|---|---|---|
-| 1 · EDA & Statistics | Statistical analysis, DDaT evidence base | Pandas, Seaborn, Plotly, Statsmodels, dbt | 🔄 Active |
-| 2 · Supervised ML | Regression, classification, forecasting, causal ML | XGBoost, SHAP, PyMC, FastAPI, MongoDB | 📋 Planned |
-| 3 · Unsupervised ML | Clustering, recommendation, fraud detection | Neo4j, Cypher, SVD, Autoencoders, PySpark | 📋 Planned |
-| 4 · Deep Learning | CNNs, Transformers, GNNs, NLP, vision | PyTorch, HuggingFace, PyTorch Geometric | 📋 Planned |
-| 5 · GenAI & LLMs | RAG, fine-tuning, chatbots, agents | Azure OpenAI, MongoDB Atlas, Neo4j GraphRAG | 📋 Planned |
-| 6 · Agents & RL | AI agents, reinforcement learning, MLOps | LangGraph, Q-learning, PPO, full Azure stack | 📋 Planned |
+| NHS RTT & CWT Batch ELT Pipeline | Airflow · dbt · BigQuery · GCS | NHS England waiting times | In Progress |
+| ONS Economic Streaming Pipeline | Kafka · Spark Streaming · BigQuery | ONS Labour Market, CPI | Planned |
+| UK Government Analytics Engineering | dbt · Snowflake · GitHub Actions | HMRC, DWP, ONS | Planned |
+| NHS Multi-Source Platform | Azure Data Factory · Databricks · Delta Lake | NHS RTT, CWT, A&E | Planned |
+| UK Retail & Economic Intelligence | AWS Glue · Redshift · Step Functions | ONS Retail, Companies House | Planned |
+| Microsoft Fabric NHS Analytics | Microsoft Fabric · Power BI · Lakehouse | NHS Workforce, HES | Planned |
+| UK Housing Market Pipeline | Azure · dbt · Snowflake | Land Registry, ONS HPI | Planned |
+| Public Health Surveillance Platform | GCP · Pub/Sub · BigQuery ML | UKHSA, PHE Fingertips | Planned |
+| Multi-Cloud Data Platform Capstone | AWS · Azure · GCP · Fabric | All UK datasets | Planned |
 
+**Standards applied to every project:** CI/CD via GitHub Actions · Docker
+and Docker Compose · Terraform for all cloud resources · Great Expectations
+and dbt tests for data quality · SCD Type 2 for slowly changing dimensions ·
+DDaT framework alignment · Full architecture diagrams
 
-## Currently studying
+---
 
-- 📘 Andrew Ng — Machine Learning Specialisation (Coursera)
-- 📗 DeepLearning.AI — Deep Learning Specialisation
-- ☁️ Microsoft — Azure Data Scientist Associate (DP-100)
-- 🗄️ Neo4j — Graph Data Science Certification (free)
-- 🍃 MongoDB — MongoDB for Data Scientists (free)
-- 🛠️ dbt Fundamentals (free)
+## Portfolio Two — Data Science and ML Engineering
 
-## Background
+**72 projects · 6 phases · Classical statistics to production AI systems**
 
-🎓 MSc Data Science · BSc Physics · London, UK
-💼 Open to Data Scientist and ML Engineer roles (UK & Remote)
-🔬 Research-minded. Production-focused. Graph-aware. Always building.
+Every project derived from mathematical first principles before a library
+function is called. Every project produces a production-grade output
+deployable to enterprise.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omokhua-ose)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oomokhua@gmail.com)
+| Phase | Focus | Era | Tools | Status |
+|---|---|---|---|---|
+| Phase 1 | EDA and Statistical Analysis | Classical → Modern ML | pandas · scipy · statsmodels | 4 of 12 complete |
+| Phase 2 | Supervised ML | Modern ML | scikit-learn · XGBoost · LightGBM | Planned |
+| Phase 3 | Unsupervised ML and Recommendation Systems | Modern ML → Cloud | Neo4j · Databricks · Azure | Planned |
+| Phase 4 | Deep Learning | PyTorch | CNNs · LSTMs · Transformers · BERT | Planned |
+| Phase 5 | Generative AI and LLMs | Azure OpenAI | RAG · LangChain · MongoDB Atlas · GraphRAG | Planned |
+| Phase 6 | AI Agents and Reinforcement Learning | Full Azure stack | LangGraph · MLflow · Azure DevOps | Planned |
+
+**Phase 1 completed projects:**
+
+| Project | Dataset | Key findings |
+|---|---|---|
+| P01 — UK Road Safety Analysis | STATS19 DfT · 503K collisions | Fatal risk 42x higher in darkness with no lighting |
+| P02 — NHS Regional Health Outcomes | OHID Fingertips · 294 LAs | Deprivation explains 74% of life expectancy variance (r = -0.862) |
+| P03 — UK Crime and Deprivation | Home Office CSP · IMD 2019 | Violence is deprivation-driven (r = 0.831); theft is opportunity-driven |
+| P04 — UK House Price Dynamics | Land Registry PPD · ASHE · IMD | London affordability gap: Cohen's d = 1.645 vs rest of England |
+
+---
+
+## Technology Stack
+
+**Data Engineering:** Python · SQL · Apache Airflow · Apache Kafka · Apache Spark
+· dbt · Great Expectations · Docker · Terraform · GitHub Actions · Google BigQuery
+· Google Cloud Storage · Azure Data Factory · Azure Databricks · Delta Lake
+· AWS Glue · AWS Redshift · Snowflake · Microsoft Fabric
+
+**Data Science and ML:** Python · pandas · NumPy · SciPy · statsmodels · scikit-learn
+· XGBoost · LightGBM · PyTorch · Hugging Face · LangChain · LangGraph · MongoDB Atlas
+· Neo4j · Azure ML · Azure OpenAI · MLflow
+
+**Domains:** NHS · Civil Service · Government analytics · Financial services · Retail
+
+---
+
+## Open to Roles
+
+Data Engineer · Data Scientist · ML Engineer
+NHS · Civil Service · Private Sector · Remote · London
+
+[LinkedIn](https://www.linkedin.com/in/omokhua-ose)
