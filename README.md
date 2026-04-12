@@ -87,6 +87,6 @@ deployable to enterprise.
 ## Open to Roles
 
 Data Engineer · Data Scientist · ML Engineer
-NHS · Civil Service · Private Sector · Remote · London
+Private Sector · Remote · United Kingdom
 
 [LinkedIn](https://www.linkedin.com/in/omokhua-ose)
