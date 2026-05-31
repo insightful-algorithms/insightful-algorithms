@@ -1,4 +1,4 @@
-# Ose — Data Engineer & Data Scientist
+# Ose - Data Engineer & Data Scientist
 
 > *Building from mathematical first principles. Shipping to production.*
 
@@ -14,7 +14,7 @@ I maintain two parallel portfolios built to the same production standard.
 
 ---
 
-## Portfolio One — Data Engineering
+## Portfolio One - Data Engineering
 
 **Multi-cloud · UK datasets**
 
