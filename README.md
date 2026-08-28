@@ -35,7 +35,7 @@ DDaT framework alignment · Full architecture diagrams
 
 ---
 
-## Portfolio Two — Data Science and ML Engineering
+## Portfolio Two - Data Science and ML Engineering
 
 **Classical statistics to production AI systems**
 
