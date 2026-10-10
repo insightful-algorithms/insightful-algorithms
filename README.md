@@ -53,10 +53,10 @@ as soon as they are completed or when the project is in the work.
 
 | Project | Dataset | Key findings |
 |---|---|---|
-| P01 — UK Road Safety Analysis | STATS19 DfT · 503K collisions | Fatal risk 42x higher in darkness with no lighting |
-| P02 — NHS Regional Health Outcomes | OHID Fingertips · 294 LAs | Deprivation explains 74% of life expectancy variance (r = -0.862) |
-| P03 — UK Crime and Deprivation | Home Office CSP · IMD 2019 | Violence is deprivation-driven (r = 0.831); theft is opportunity-driven |
-| P04 — UK House Price Dynamics | Land Registry PPD · ASHE · IMD | London affordability gap: Cohen's d = 1.645 vs rest of England |
+| P01 - UK Road Safety Analysis | STATS19 DfT · 503K collisions | Fatal risk 42x higher in darkness with no lighting |
+| P02 - NHS Regional Health Outcomes | OHID Fingertips · 294 LAs | Deprivation explains 74% of life expectancy variance (r = -0.862) |
+| P03 - UK Crime and Deprivation | Home Office CSP · IMD 2019 | Violence is deprivation-driven (r = 0.831); theft is opportunity-driven |
+| P04 - UK House Price Dynamics | Land Registry PPD · ASHE · IMD | London affordability gap: Cohen's d = 1.645 vs rest of England |
 
 ---
 
